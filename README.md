@@ -26,8 +26,8 @@ File format:
 
 These are **shooting conditions** that help analyze the effects of lighting, background, and image quality:
 
-- **1** — good light, clear background
-- **2** — low lighting, shadows
-- **3** — bright light, possible glare or reflections
+- **1** — The ideal is a clean vegetable on a neutral background, smooth light, no interfering elements.
+- **2** — The usual conditions are vegetables on the background, dirt, non—standard shape/color, several objects in the frame, faint shadows or reflections.
+- **3** — Extremely uneven background, noise, glare, damaged or partially visible vegetables.
 
  This allows you to check how resistant the algorithm is to various conditions.
