@@ -31,3 +31,18 @@ These are **shooting conditions** that help analyze the effects of lighting, bac
 - **3** — Extremely uneven background, noise, glare, damaged or partially visible vegetables.
 
  This allows you to check how resistant the algorithm is to various conditions.
+
+
+
+
+
+## 🔧 How It Works (Spoiler: It’s Just Color!)
+
+```python
+red_pixels = count_red_in_HSV(image)
+green_pixels = count_green_in_HSV(image)
+
+if red_pixels > green_pixels:
+    print("🍅 Tomato!")
+else:
+    print("🥒 Cucumber!")
