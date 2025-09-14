@@ -30,19 +30,7 @@ These are **shooting conditions** that help analyze the effects of lighting, bac
 - **2** — The usual conditions are vegetables on the background, dirt, non—standard shape/color, several objects in the frame, faint shadows or reflections.
 - **3** — Extremely uneven background, noise, glare, damaged or partially visible vegetables.
 
- This allows you to check how resistant the algorithm is to various conditions.
+> This enables evaluation of classifier robustness across real-world imaging variations beyond controlled environments.
 
 
 
-
-
-## 🔧 How It Works (Spoiler: It’s Just Color!)
-
-```python
-red_pixels = count_red_in_HSV(image)
-green_pixels = count_green_in_HSV(image)
-
-if red_pixels > green_pixels:
-    print("🍅 Tomato!")
-else:
-    print("🥒 Cucumber!")
