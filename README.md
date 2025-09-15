@@ -1,4 +1,4 @@
-# 🍅🥒 Tomato vs Cucumber Classifier (OpenCV, No Machine Learning!)
+# Tomato vs Cucumber Classifier (OpenCV, No Machine Learning!)
 
 **[Analysis](GreenOrRed.ipynb)** - Full code walkthrough with visualizations and condition analysis.
 
