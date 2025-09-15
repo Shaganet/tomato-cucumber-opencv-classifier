@@ -2,7 +2,11 @@
 
 **[Analysis](GreenOrRed.ipynb)** - Full code walkthrough with visualizations and condition analysis.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaganet/tomato-cucumber-opencv-classifier/blob/main/Tomato_or_Cucumber_Classifier.ipynb) **[Test](Tomato_or_Cucumber_Classifier.ipynb)** - To start classification with your own images.
+**[Test](Tomato_or_Cucumber_Classifier.ipynb)** - To start classification with your own images.
+
+## Launch in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaganet/tomato-cucumber-opencv-classifier/blob/main/Tomato_or_Cucumber_Classifier.ipynb) - Click on the button and the laptop opens in the browser.
 
 ## Sample Images
 
