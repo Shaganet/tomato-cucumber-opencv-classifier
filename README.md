@@ -1,12 +1,8 @@
 # 🍅🥒 Tomato vs Cucumber Classifier (OpenCV, No Machine Learning!)
 
-## Launch in Google Colab
+**[Analysis](GreenOrRed.ipynb)** - Full code walkthrough with visualizations and condition analysis.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaganet/tomato-cucumber-opencv-classifier/blob/main/Tomato_or_Cucumber_Classifier.ipynb)
-
-
-**[GreenOrRed?](GreenOrRed.ipynb)** - A simple color-based classification project for tomatoes and cucumbers using OpenCV.  
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaganet/tomato-cucumber-opencv-classifier/blob/main/Tomato_or_Cucumber_Classifier.ipynb) **[Test](Tomato_or_Cucumber_Classifier.ipynb)** - To start classification with your own images.
 
 ## Sample Images
 
