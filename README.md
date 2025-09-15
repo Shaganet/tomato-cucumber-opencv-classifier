@@ -52,5 +52,5 @@ These are **shooting conditions** that help analyze the effects of lighting, bac
 
 > ✅ **Classification accuracy remains 100% across all conditions** — the algorithm correctly identifies tomato or cucumber based on dominant color.  
 > ❌ **Mask quality degrades significantly**: as conditions become more complex, the mask fails to capture the true shape of the object due to glare, shadows, background interference, and uneven lighting.  
->  This proves: **Color dominates classification**, but **shape recovery depends entirely on image quality**. The system "sees" the right vegetable — but can’t draw it accurately when the scene gets messy.
+> ❗ This proves: **Color dominates classification**, but **shape recovery depends entirely on image quality**. The system "sees" the right vegetable — but can’t draw it accurately when the scene gets messy.
 
