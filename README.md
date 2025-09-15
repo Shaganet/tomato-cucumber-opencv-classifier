@@ -32,5 +32,13 @@ These are **shooting conditions** that help analyze the effects of lighting, bac
 
 > This enables evaluation of classifier robustness across real-world imaging variations beyond controlled environments.
 
+## 🧪 Dataset statistics
 
+| Class | Quantity | Conditions (1/2/3) |
+|------------|------------|------------------|
+| Tomato | 12 | 1: 2, 2: 3, 3: 7 |
+| Cucumber | 12 | 1: 2, 2: 3, 3: 7 |
+| **Total** | **24** | — |
+
+ > Balanced dataset: 12 objects of each class.
 
