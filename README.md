@@ -54,7 +54,7 @@ These are **shooting conditions** that help analyze the effects of lighting, bac
 | Average (2) |  **100%**             | 🟡 Good — masks affected by shadows/non-standard color, partial gaps |
 | Difficult (3) |  **100%**         | 🔴 Poor — fragmented, incomplete, "holes" in mask, contour does not match object shape |
 
-> ✅ **Classification accuracy remains 100% across all conditions** — the algorithm correctly identifies tomato or cucumber based on dominant color.  
-> ❌ **Mask quality degrades significantly**: as conditions become more complex, the mask fails to capture the true shape of the object due to glare, shadows, background interference, and uneven lighting.  
-> ❗ This proves: **Color dominates classification**, but **shape recovery depends entirely on image quality**. The system "sees" the right vegetable — but can’t draw it accurately when the scene gets messy.
+> **Classification accuracy remains 100% across all conditions** — the algorithm correctly identifies tomato or cucumber based on dominant color.  
+> **Mask quality degrades significantly**: as conditions become more complex, the mask fails to capture the true shape of the object due to glare, shadows, background interference, and uneven lighting.  
+> This proves: **Color dominates classification**, but **shape recovery depends entirely on image quality**. The system "sees" the right vegetable — but can’t draw it accurately when the scene gets messy.
 
